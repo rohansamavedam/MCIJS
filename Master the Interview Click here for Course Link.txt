@@ -1,0 +1,76 @@
+[Master the Interview Click here for Course Link ](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/learn/v4/t/lecture/12214950?start=0)
+	🎁Hash Tables
+		![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-60c35575-6e54-40e4-8b0a-1897a929b5c9.png 125x150)             
+		
+		***could be O(n) with hash collisions and dynamic array resizing but unlikely*
+		Improve Time Complexity?
+			Fast Access O(1), tradeoff: more memory O(n) 
+		Collision?
+			Linked List
+	🎁Graphs
+		Shortest Path?
+			🚀 Bellman-Ford
+			🚀 Dijkstra
+		Cyclic or Acyclic?
+		Weighted or Unweighted?
+		Graph Traversal? **O(n)**
+			🚀 Breadth First Search (BFS)
+			🚀 Depth First Search (DFS)
+				Inorder
+				Postorder
+				Preorder
+		Directed or Undirected?
+		🎁Tree
+			 Tree Traversal? **O(n)**
+				
+				
+				**Recursion?**
+					Be mindful of Space Complexity! (Stack overflow)
+			🎁Linked List
+				🎁Singly Linked List
+					 ![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-89cbb513-4643-42c7-9548-558edf3bf63b.png 125x150)
+				🎁Doubly Linked List 
+					
+			🎁Binary Tree
+				🎁Binary Search Tree
+					🎁Balanced BST
+						🎁AVL Tree
+						🎁Red Black Tree
+						![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-97a3ea3c-d2d6-4e33-ba44-5fd119c339fc.png 125x150)
+			🎁Heap
+				🎁Binary Heap
+					Priority Queue
+					![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-c22f9df1-f9d2-47fe-9795-882fef4c55ca.png 125x150)
+			🎁Trie
+	🎁Arrays
+		Sorting? ~ **O(N log N)**
+			Radix Sort 🚀
+			Quick Sort 🚀
+			Heap Sort 🚀
+			Bubble Sort 🚀
+			Selection Sort 🚀
+			Insertion Sort 🚀
+			Merge Sort 🚀
+			Counting Sort 🚀
+		String question? 
+			Turn it into an Array ~ split() 🚀
+		Static
+			 ![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-04d93f30-6e19-410c-ad60-68f80e52963c.png 125x150)
+		Dynamic
+			 ![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-2cac564d-1656-4084-b817-392c655e6cec.png 125x150)
+			
+			** can be O(n) on expanding memory
+		Searching. Is it sorted?
+			Yes - Divide and Conquer - **Binary search O(log N)** 🚀
+			No. Will sorting make it faster? If still no, **Linear Search**🚀
+			No. Is it a String? See if a **Trie** data structure helps
+	🎁Stacks
+		Array Stack
+		Linked List Stack
+		![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-a1ba3701-01bc-4f1b-8b6f-2b4842ef7992.png 125x150)
+	🎁Queues
+		Array Queue (BAD)
+		Linked List Queue
+		![image](https://coggle-images.s3.amazonaws.com/5b9139b6a625ad7bc524fb2a-84113f8a-804b-4bcb-940f-294d91ccff38.png 125x150)
+	Dynamic Programming
+		🚀Memoization
