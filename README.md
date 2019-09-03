@@ -1,2 +1,2 @@
 # MCIJS
-Mastering the coding interview, Javascript syntax
+Coding Problems using JavaScript Syntax
